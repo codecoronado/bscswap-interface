@@ -1,4 +1,6 @@
 {
+  "engines": {
+  "node": "16.x"},
   "name": "@bscswap/interface",
   "description": "BSCswap Interface",
   "homepage": ".",
