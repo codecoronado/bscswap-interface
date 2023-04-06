@@ -76,6 +76,9 @@
   "resolutions": {
     "@walletconnect/web3-provider": "1.1.1-alpha.0"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && copyfiles LICENSE README.md WeChat.jpg logo.png build/",
