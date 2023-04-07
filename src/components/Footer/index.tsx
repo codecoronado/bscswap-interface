@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import FooteLinkIcon from '../../assets/images/footerLink_icon.png'
+import BottomLogo from '../../assets/images/safegrowx-logo.jpg'
 import FighterIcon from '../../assets/images/fighter-icon.png'
 import BLogo from '../../assets/images/binance-logo.png'
 import './Footer.css'
@@ -132,7 +133,7 @@ const Footer: React.FC = () => {
         <FooterBody>
             <FooterFrame>
                 <JRLogo>
-                  <img style={{ position: 'absolute', left:10, top:-23}} src={FighterIcon} alt="Fighter" />
+                  <img style={{ position: 'absolute', left:10, top:-23}} src={BottomLogo} alt="Fighter" />
                 </JRLogo>
                 <FooterCbox>
                     <Link01 />
