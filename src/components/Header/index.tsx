@@ -22,8 +22,9 @@ const Nav: React.FC = () => {
   return (
     <StyledNav>
       <StyledAbsoluteLink href="https://bscbonus.com" target="_blank" >Welcome bonus</StyledAbsoluteLink> */}
-      {/* <StyledAbsoluteLink href="https://bscbonus.com" target="_blank" >Welcome bonus</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://trade.bscswap.com/#/swap" className="active">Trade</StyledAbsoluteLink>
+      {/* <StyledAbsoluteLink href="https://bscbonus.com" target="_blank" >Welcome bonus</StyledAbsoluteLink> */}
+      {/* <StyledAbsoluteLink href="https://trade.bscswap.com/#/swap" className="active">Trade</StyledAbsoluteLink> */}
+      <StyledAbsoluteLink href="#" className="active">Trade</StyledAbsoluteLink>
       {/* <StyledAbsoluteLink href="https://bscswap.info" target="_blank">Analysis</StyledAbsoluteLink> */}
       {/* <StyledAbsoluteLink href="https://bscswap.pro" target="_blank">BSCswap Pro</StyledAbsoluteLink> */}
       {/* <StyledAbsoluteLink href="https://stable.bscswap.com" target="_blank">BSCswap Stable</StyledAbsoluteLink> */}
