@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import FooteLinkIcon from '../../assets/images/footerLink_icon.png'
-import BottomLogo from '../../assets/images/safegrowx-logo.jpg'
+import BottomLogo from '../../assets/images/safegrowx-logo-50x50.jpg'
 import FighterIcon from '../../assets/images/fighter-icon.png'
 import BLogo from '../../assets/images/binance-logo.png'
 import './Footer.css'
