@@ -7,16 +7,7 @@ import './Footer.css'
 const Link02: React.FC = () => {
     return (
         <FLink02B>
-        <StyledAbsoluteLinkB href="#" >Powered by Atom Foundation:</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="https://jointer.io" target="_blank">Jointer.io</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="#" >BSCbonus.com</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="#" >SmartSwap.exchange</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="#" >ZERO/1</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="#" >DegenSwap.io</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="#" >ElementZero.network</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="#" >Packey.insure</StyledAbsoluteLinkB> |
-        <StyledAbsoluteLinkB href="#" >Mass.investments</StyledAbsoluteLinkB>
-
+        <StyledAbsoluteLinkB href="#" >Powered by Atom Foundation:</StyledAbsoluteLinkB>
         </FLink02B>
     )
 }
@@ -24,14 +15,9 @@ const Link02: React.FC = () => {
 const Link01: React.FC = () => {
     return (
       <FLink01B>
-        <StyledAbsoluteLinkA href="#" >List new token</StyledAbsoluteLinkA> |
-        <StyledAbsoluteLinkA href="#" >Upgrade to v2</StyledAbsoluteLinkA> |
-        <StyledAbsoluteLinkA href="#" >Voting</StyledAbsoluteLinkA> |
-        <StyledAbsoluteLinkA href="#" >Github</StyledAbsoluteLinkA> |
-        <StyledAbsoluteLinkA href="#" >Medium</StyledAbsoluteLinkA> |
+       
         <StyledAbsoluteLinkA href="#" >Telegram</StyledAbsoluteLinkA> |
-        <StyledAbsoluteLinkA href="#" >Twitter</StyledAbsoluteLinkA> |
-        <StyledAbsoluteLinkA href="#" >Discord</StyledAbsoluteLinkA> |
+        <StyledAbsoluteLinkA href="#" >Twitter</StyledAbsoluteLinkA> 
         <StyledIcon01 href="#"></StyledIcon01>
       </FLink01B>
     )
