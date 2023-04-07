@@ -133,7 +133,7 @@ const Footer: React.FC = () => {
         <FooterBody>
             <FooterFrame>
                  <JRLogo>
-                  <img style={{ position: 'absolute', left:10, top:-1}} src={BottomLogo} alt="SafeGrowX" />
+                  <img style={{ position: 'absolute', left:10, top:0}} src={BottomLogo} alt="SafeGrowX" />
                 </JRLogo>
                 <FooterCbox>
                     <Link01 />
