@@ -7,7 +7,7 @@ import './Footer.css'
 const Link02: React.FC = () => {
     return (
         <FLink02B>
-        <StyledAbsoluteLinkB href="#" >Powered by Atom Foundation:</StyledAbsoluteLinkB>
+        <StyledAbsoluteLinkB href="#" >Powered by SafeGrow X:</StyledAbsoluteLinkB>
         </FLink02B>
     )
 }
@@ -15,10 +15,8 @@ const Link02: React.FC = () => {
 const Link01: React.FC = () => {
     return (
       <FLink01B>
-       
-        <StyledAbsoluteLinkA href="#" >Telegram</StyledAbsoluteLinkA> |
+        <StyledAbsoluteLinkA href="https://t.me/SafeGrowX_Bsc" >Telegram</StyledAbsoluteLinkA> |
         <StyledAbsoluteLinkA href="#" >Twitter</StyledAbsoluteLinkA> 
-        <StyledIcon01 href="#"></StyledIcon01>
       </FLink01B>
     )
 }
