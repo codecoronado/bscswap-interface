@@ -8,7 +8,7 @@ import './Footer.css'
 const Link02: React.FC = () => {
     return (
         <FLink02B>
-        <StyledAbsoluteLinkB href="#" >Powered by SafeGrow X:</StyledAbsoluteLinkB>
+        <StyledAbsoluteLinkB href="#" >Powered by SafeGrow X</StyledAbsoluteLinkB>
         </FLink02B>
     )
 }
