@@ -8,8 +8,8 @@ import styled from 'styled-components'
 import Logo from '../../assets/images/logo.png'
 import LogoDark from '../../assets/images/logo_white.png'
 
-import Logo1 from '../../assets/images/logo1.jpg'
-import LogoDark1 from '../../assets/images/logo_white1.jpg'
+import Logo1 from '../../assets/images/safegrowx-logo-transparent.png'
+import LogoDark1 from '../../assets/images/safegrowx-logo-transparent.png'
 
 
 
