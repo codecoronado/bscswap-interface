@@ -7,6 +7,12 @@ import styled from 'styled-components'
 
 import Logo from '../../assets/images/logo.png'
 import LogoDark from '../../assets/images/logo_white.png'
+
+import Logo1 from '../../assets/images/logo1.jpg'
+import LogoDark1 from '../../assets/images/logo_white1.jpg'
+
+
+
 import { useActiveWeb3React } from '../../hooks'
 import { useDarkModeManager } from '../../state/user/hooks'
 import { useETHBalances } from '../../state/wallet/hooks'
@@ -21,7 +27,7 @@ import Web3Status from '../Web3Status'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://bscbonus.com" target="_blank" >Welcome bonus</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="#">Welcome</StyledAbsoluteLink>
       {/* <StyledAbsoluteLink href="https://bscbonus.com" target="_blank" >Welcome bonus</StyledAbsoluteLink> */}
       {/* <StyledAbsoluteLink href="https://trade.bscswap.com/#/swap" className="active">Trade</StyledAbsoluteLink> */}
       <StyledAbsoluteLink href="#" className="active">Trade</StyledAbsoluteLink>
@@ -177,7 +183,7 @@ export default function Header() {
         <HeaderElement>
           <Title href=".">
             <UniIcon>
-              <img style={{ height: 100, width:400, marginTop:-35 }} src={isDark ? LogoDark : Logo} alt="logo" />
+              <img style={{ height: 100, width:400, marginTop:-35 }} src={isDark ? LogoDark1 : Logo1} alt="logo" />
             </UniIcon>
           </Title>
         </HeaderElement>
